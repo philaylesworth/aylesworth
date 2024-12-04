@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+/* Table */
+
+table {
+  margin: 0px auto;
+}
+
+td,
+th {
+  vertical-align: top;
+}
+
+.num {
+  text-align: right;
+}
+
+td.subtotal {
+  text-align: right;
+  font-weight: bold;
+}
+tr.heading {
+  background-color: lightgray;
+}
+tr.total {
+  background-color: rgb(240, 240, 240);
+}
+td,
+th {
+  padding: 4px 20px 0px 0px;
+}
+
+/* Form */
+
+div {
+  margin: 10px auto;
+  width: 1000px;
+}
+
+@media print {
+  form {
+    display: none;
+  }
+}

@@ -1,0 +1,35 @@
+html {
+	background-image: url(bg.gif);
+}
+
+body {
+	background-color: rgba(255,255,255,0.9);
+	border-radius: 15px;
+	margin: 10px auto;
+	padding: 1em;
+	width: 80%;
+	min-width: 320px;
+	max-width: 1000px;
+	line-height: 1.6;
+}
+
+h1 {
+	text-align: center;
+	border-bottom: 1px solid rgb(253, 179, 85);
+}
+
+a {
+	text-decoration: none;
+	&,
+	&:link {
+		color: rgb(61, 144, 177);
+	}
+	&:visited {
+		color:  rgb(252, 87, 62);
+	}
+	&:hover,
+	&:active {
+		color: rgb(151, 214, 152);
+		text-decoration: underline;
+	}
+}

@@ -1,0 +1,71 @@
+
+==================================================================
+https://keybase.io/paylesworth
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://aylesworth.ca
+  * I am paylesworth (https://keybase.io/paylesworth) on keybase.
+  * I have a public key with fingerprint 9023 8926 9444 4B80 F42E  022D 431A 33C4 FCA6 D50C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "9023892694444b80f42e022d431a33c4fca6d50c",
+            "host": "keybase.io",
+            "key_id": "431A33C4FCA6D50C",
+            "uid": "a978014f6601e1b0b22a64afbe3c3500",
+            "username": "paylesworth"
+        },
+        "service": {
+            "hostname": "aylesworth.ca",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397063794,
+    "expire_in": 157680000,
+    "prev": "a70a00133ca515ad14c23504902e0c972e8101be01f312913c3b1abd48cbe8e9",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owGbwMvMwMX4wr775fVc9mmMpw98S2IIdm0orVZKyk+pVLKqVspOBVNpmXnpqUUF
+RZl5JUpWSpYGRsYWlkZmliZAkGRhkGZilGpgZJRiYmyYaGycbJKWnGiWYmqQrKSj
+lJFfDNIBNCYpsThVLzMfKAbkxGemAEWB6h2NjZ1N3JwdzVxMDZyBcqVgiURLcwsD
+Q5M0MzMDw1TDJIMkI6NEM5PEtKRU42RjUwMDkMLi1KK8xNxUoOqCxMqc1OLy/KKS
+DKVaHSWgRFlmcirI2SDboYoQavSSE4H6C4ryS/KT83OAUhklJQVWIJ0llQUgpeWp
+SfFQQ+KTMvNSgH4HaihLLSrOzM9TsjIEqkwuyQSZamhsaW5gZmxuaaKjlFpRkFmU
+Gp8JUmFqbmZhAAQga1LLQLabGyQaGBgCAyfR1NA0McXQJNkI6BETYEimGiRbmhul
+WhgaGCalGhimGRsaWRoCvZlkmJiUYmKRnJRqkWqpBPJWYV4+0GwjoDsT04FmFmem
+5yWWlBalKtV2MsmwMDByMbCxMoGij4GLUwAWqRWWAgyL5AqedXTVvi9aXd6osTLx
+Jq/+jO7J0at+5CXM3sfz/mVL4pO4EO7fRdZF7xu1Tjrvqep0uCIZ/4d96ZPtMpVB
+2m43S/LyX/Xm+v5TmjND4NkFf76a7o6NO3LD9UOvxK7sNw3t+Lq4oSxcsyO3alP5
+accMz/DfJrlnzrP4Gvh+s5F+9kMyT+vl+qzuO342OWuY8tcdkg7y+/yAu8rLet3+
+s8o3j0mtPb7iySbjeeqW831uRptOX/dt9qOL1aYbXt/884Uv/OhXXkXdS1uPT9gS
+tYjhyc/tNifW3l06Uyzu/VKpY7L2GkI7tzJtiVkqo/l9iVrw/VJTA6f/9h9sDcqz
+ri88lnhWtdpr0U215RK3Z83nyOKeYLkgJ+hlTuyhmdH+zIskIv/NFzY4t4vrn9/F
+9xX12/PdAkoO1shKfmYXmOHQlbT0vbnUVLmtKTHThLz9A6drL9XLOlZhefTAgUM/
+nX9M/PYvxvu57zeFRiUjjkV3TZ5Zn5SRMztUEcD1+Mgc/ZNtPLK953h5v7+PPKO7
+2fLi7J9c7mKm/Du7Fug9jJDg1XYO63mR6fO8vrLuc9H6Ra25OzjlhV7cu9nx5Hjt
+BWElhwUlquZFLAemnm51uJc32+Lbz6a7c/l1Hwiy5hkH/b9da8agHvTdW2ROxJ6t
+5w4dnaE+MUO+zuWinYL1DA4zz9zq/DVs2nH5xczKqnMz5r253JgYUrLRDAA=
+=cuBs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/paylesworth
+
+==================================================================

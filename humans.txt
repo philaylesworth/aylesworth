@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Philip Aylesworth -- master of the web -- @philaylesworth
+
+# THANKS
+
+	Background image: http://thepatternlibrary.com/#alchemy
+
+# TECHNOLOGY COLOPHON
+
+	HTML5, CSS3
+	Sass
+	Normalize.css
+	jQuery
